@@ -1,0 +1,66 @@
+[
+  {
+    "id": "miner",
+    "name": "Extracteur",
+    "category": "production",
+    "w": 2,
+    "h": 2,
+    "rotatable": true,
+    "tint": "#7E8F87",
+    "requiresTerrain": [2, 3]
+  },
+  {
+    "id": "belt",
+    "name": "Convoyeur",
+    "category": "logistique",
+    "w": 1,
+    "h": 1,
+    "rotatable": true,
+    "tint": "#4A5A63"
+  },
+  {
+    "id": "smelter",
+    "name": "Fonderie",
+    "category": "production",
+    "w": 3,
+    "h": 3,
+    "rotatable": false,
+    "tint": "#96604A"
+  },
+  {
+    "id": "assembler",
+    "name": "Assembleur",
+    "category": "production",
+    "w": 3,
+    "h": 3,
+    "rotatable": true,
+    "tint": "#5C7A8C"
+  },
+  {
+    "id": "chest",
+    "name": "Coffre",
+    "category": "logistique",
+    "w": 1,
+    "h": 1,
+    "rotatable": false,
+    "tint": "#8A7B5C"
+  },
+  {
+    "id": "turret",
+    "name": "Tourelle",
+    "category": "defense",
+    "w": 2,
+    "h": 2,
+    "rotatable": true,
+    "tint": "#B3564F"
+  },
+  {
+    "id": "wall",
+    "name": "Mur",
+    "category": "defense",
+    "w": 1,
+    "h": 1,
+    "rotatable": false,
+    "tint": "#6E6A63"
+  }
+]
